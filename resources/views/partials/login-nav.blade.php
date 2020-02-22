@@ -16,7 +16,7 @@
           <label for="name" class="label">Password:</label>
           <input type="password" name="password" class="form-control">
       </div>
-    <a href="">Forgotten account?</a>
+    <a href="">Forgot account?</a>
     </div>
     <div class="col-sm-2 pr-sm-0 d-flex align-items-center">
       <button class="btn btn-sm btn-primary" type="submit">Log in</button>
